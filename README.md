@@ -10,4 +10,4 @@ fqrni/fqrni is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![21](https://user-images.githubusercontent.com/85626756/159129670-3b152cd3-6418-48d7-b4b3-9e5b6b7b9d70.svg)
+![ستكر](https://user-images.githubusercontent.com/85626756/178079103-f51d4eeb-b9cd-4eea-87bd-723fd9ca62c8.png)
