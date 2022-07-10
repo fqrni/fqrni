@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqrni&label=Profile%20views&color=0e75b6&style=flat" alt="fqrni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fqrni" alt="fqrni" /></a> </p>
+<img src="https://user-images.githubusercontent.com/85626756/178138094-f2caf2be-6576-4d11-9136-128aafd4264b.png"/>
 
 - 🔭 I’m currently working on [Almofrredon](https://almofrredon.com/)
 
