@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqrni&label=Profile%20views&color=0e75b6&style=flat" alt="fqrni" /> </p>
 
-<img src="https://user-images.githubusercontent.com/85626756/178138094-f2caf2be-6576-4d11-9136-128aafd4264b.png"/>
+<p align="center"><img  src="https://user-images.githubusercontent.com/85626756/178138276-faf995c4-59ca-4090-8535-5180665e61da.png"/>
+</p>
+
 
 - 🔭 I’m currently working on [Almofrredon](https://almofrredon.com/)
 
