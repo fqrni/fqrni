@@ -6,7 +6,6 @@
 
 <p align="center"><img height="122px" width="122px" src="https://user-images.githubusercontent.com/85626756/178138668-5e8b5abd-96cb-48e4-bf7e-6bf3bb84ac08.svg"/>
 </p>
-![332]()
 
 
 - 🔭 I’m currently working on [Almofrredon](https://almofrredon.com/)
