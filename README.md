@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqrni&label=Profile%20views&color=0e75b6&style=flat" alt="fqrni" /> </p>
 
-<p align="center"><img  src="https://user-images.githubusercontent.com/85626756/178138276-faf995c4-59ca-4090-8535-5180665e61da.png"/>
+<p align="center"><img height="152px" width="152px" src="https://user-images.githubusercontent.com/85626756/178138630-2096929c-c288-4470-a937-b0b822e19d85.png"/>
 </p>
 
 
