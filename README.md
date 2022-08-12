@@ -32,7 +32,7 @@
 <h2 align="center">Github stats:</h3>
 
 <div align="center" dir="auto">
-<p><img align="left" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=fqrni&show_icons=true&theme=graywhite&locale=en&layout=compact hide_border=true"" alt="fqrni" /></p>
+<p><img align="left" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=fqrni&show_icons=true&theme=graywhite&locale=en&layout=compact hide_border=true"" alt="" /></p>
 
 <p>&nbsp;<img align="right" width="554" src="https://github-readme-stats.vercel.app/api?username=fqrni&theme=graywhite&locale=en&hide_border=true" alt="fqrni" /></p>
 
