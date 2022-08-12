@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [My personal website]([fqrni.com](https://fqrni.com))
+- 👨‍💻 All of my projects are available at([fqrni.com](https://fqrni.com))
 
 - 💬 Ask me about **HTML,CSS**
 
